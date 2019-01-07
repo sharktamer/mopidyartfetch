@@ -1,1 +1,1 @@
-# mopidy-art-fetch
+# mopidyartfetch
